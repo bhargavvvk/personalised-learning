@@ -25,7 +25,7 @@ export default function NavbarCustom(){
           </Link>
         </NavbarItem>
         <NavbarItem>
-          <Link href="#" color='foreground' aria-current="page">
+          <Link href="/notes" color='foreground' aria-current="page">
             Notes
           </Link>
         </NavbarItem>
